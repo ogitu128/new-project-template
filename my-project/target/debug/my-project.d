@@ -1,0 +1,1 @@
+/home/vc/rust-projects/new-project-template/my-project/target/debug/my-project: /home/vc/rust-projects/new-project-template/my-project/src/lib.rs /home/vc/rust-projects/new-project-template/my-project/src/main.rs
